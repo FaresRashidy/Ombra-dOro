@@ -10,4 +10,4 @@ Welcome to **Ombra d’Oro**, an elegant and immersive website experience for a 
 - 🎨 Minimalist gold-themed branding and SVG logo
 - 🧾 Sections include About, Menu, Testimonials, Contact, and more
 
-**made with love by Fares Rashidy**
+## **made with love by Fares Rashidy**
